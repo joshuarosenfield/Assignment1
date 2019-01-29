@@ -9,4 +9,7 @@ Total 4 (delta 1), reused 0 (delta 0)
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/joshuarosenfield/Assignment1.git
    6b713a4..cc62dc3  master -> master
-Joshuas-MacBook-Pro-2:Assignment1 Joshua$ 
+Joshuas-MacBook-Pro-2:Assignment1 Joshua$
+
+b)
+6 commits have been done to the repository. The command used was "git log". 
