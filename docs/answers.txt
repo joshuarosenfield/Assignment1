@@ -15,4 +15,7 @@ b)
 6 commits have been done to the repository. The command used was "git log".
 
 c)
-.gitignore was lat modified on Thu Jan 10 16:45:38 2019. The command to get this information was "git log -- .gitignore"
+.gitignore was last modified on Thu Jan 10 16:45:38 2019. The command to get this information was "git log -- .gitignore".
+
+d)
+why branches are used in a Git repository is because it enables the project to be worked on by multiple people at the same time. It also makes it harder for unstable code to be included into the main project.
