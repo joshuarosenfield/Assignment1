@@ -33,3 +33,9 @@ h)
 inheritance enables new objects to take on the properties of existing objects.
 polymorphism refers to a programming language's ability to process objects differently depending on their data type or class. 
 encapsulation is used to hide the values or state of a structured data object inside a class, preventing unauthorized parties' direct access to them.
+
+i)
+the main difference between the “Dictator and Lieutenants” workflow and the “Integration management” workflow” is in Dicator and Lieutenants there is one central repository that only one person can push to/ While in Intergration management each person pushs to there repository and can pull from the blessed repositor, anyone can edit blessed repository through an integration manager.
+
+j)
+Dictator would work better for a large group because all the changes have to go through the dicator before changing the repository. while in central, if one person from the large group changes the repository negativily, it messes up everything. No safety net. 
