@@ -22,3 +22,14 @@ why branches are used in a Git repository is because it enables the project to b
 
 e)
 The diffrences between git log and git status is that git status shows the working tree status, while git log gets info about last commits.
+
+f)
+the command used is git log --follow Weapon.h
+
+g)
+git log --grep=“file“
+
+h)
+inheritance enables new objects to take on the properties of existing objects.
+polymorphism refers to a programming language's ability to process objects differently depending on their data type or class. 
+encapsulation is used to hide the values or state of a structured data object inside a class, preventing unauthorized parties' direct access to them.
