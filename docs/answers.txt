@@ -19,3 +19,6 @@ c)
 
 d)
 why branches are used in a Git repository is because it enables the project to be worked on by multiple people at the same time. It also makes it harder for unstable code to be included into the main project.
+
+e)
+The diffrences between git log and git status is that git status shows the working tree status, while git log gets info about last commits.
