@@ -28,5 +28,9 @@ Weapon * WeaponFactory::getWeapon(std::string name) {
         return new CommonSpear();
     }
 
+    if(name.compare("laser") == 0){
+        return new CommonLaser();
+    }
+
     throw "Invalid weapon";
 }
