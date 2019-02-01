@@ -31,6 +31,9 @@ Weapon * WeaponFactory::getWeapon(std::string name) {
     if(name.compare("laser") == 0){
         return new CommonLaser();
     }
+	if(name.compare("hammer") == 0){
+        return new SimpleHammer();
+    }
 
     throw "Invalid weapon";
 }
