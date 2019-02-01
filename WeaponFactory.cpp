@@ -35,5 +35,9 @@ Weapon * WeaponFactory::getWeapon(std::string name) {
         return new SimpleHammer();
     }
 
+	 if(name.compare("crsword") == 0){
+        return new CrazyRandomSword();
+    }
+
     throw "Invalid weapon";
 }
