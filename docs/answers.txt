@@ -39,3 +39,8 @@ the main difference between the “Dictator and Lieutenants” workflow and the 
 
 j)
 Dictator would work better for a large group because all the changes have to go through the dicator before changing the repository. while in central, if one person from the large group changes the repository negativily, it messes up everything. No safety net. 
+
+RoleGame OOP principles
+The RoleGame prototype is using polymorphism and encapsulation. It is using polymorphism in every .h file of a created weapon. The created weapons are derived 
+from the Weapon class. It is also using encapsulation. The classes are using private and protected and public accessors so that only the right things
+ may access the data within.
